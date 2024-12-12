@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello👋 I'm Nirmiti Rane</h1>
+<h1 align="center">Hello👋 I'm, Nirmiti Rane</h1>
 <h3 align="center">I am pursuing my Bachelor's in Information technology from India.I am learning Python and also interested in Machine learning and Devops.🎓 </h3>
 
 - 🌱 I’m currently learning **Devops and Machine learning**
