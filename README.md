@@ -1,4 +1,4 @@
-
+<div align="center"><img src="./github_header.jpg" alt="My Photo" /></div>
 <h1 align="center">Hello👋 I'm, Nirmiti Rane</h1>
 <h3 align="center">I am pursuing my Bachelor's in Information technology from India.I am learning Python and also interested in Machine learning and Devops.🎓 </h3>
 
