@@ -28,6 +28,6 @@
 <a href="https://linkedin.com/in/nirmiti-rane-551613238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmiti-rane-551613238" height="30" width="40" /></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nirmitirane24&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nirmitirane24)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
